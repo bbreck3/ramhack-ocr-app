@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">My Application</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">RamHacks</string>
+    <string name="Intro">Hi! Welcome to PikWords!</string>
+    <string name="step1">1. Take a picture of something you want converted to text.</string>
+    <string name="step2">2. Confirm that you would like to use the photo. P.S. The clearer the image the better.</string>
+    <string name="step3">3. Download, Google, or E-mail your text.</string>
     <string name="action_settings">Settings</string>
-    <string name="take_photo">Take </string>
-
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_steps">Steps</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>

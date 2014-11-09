@@ -5,4 +5,8 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="Theme.Splash" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/loading</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
 </resources>
